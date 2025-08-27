@@ -1,0 +1,19 @@
+reddit-comment-analysis/
+├── data/
+│   ├── raw/
+│   ├── processed/
+├── notebooks/
+│   ├── 01_data_collection.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   ├── 03_exploratory_analysis.ipynb
+│   ├── 04_nlp_modeling.ipynb
+│   └── 05_visualizations.ipynb
+├── src/
+│   ├── data_collection.py
+│   ├── preprocessing.py
+│   ├── analysis.py
+│   └── visualize.py
+├── reports/
+│   └── final_report.md
+├── requirements.txt
+└── README.md
